@@ -24,7 +24,7 @@ const About = () => {
                         higher education at Makerere University, Strathmore University and the
                         University of Windsor.
                     </p>
-                    <br></br>
+                    <br/>
                     <p>
                         <b>Mark McGuire</b> is an Essex County resident since birth and volunteer coach with
                         the Windsor Boys Club. Mark is a Leadership Development Contractor for
