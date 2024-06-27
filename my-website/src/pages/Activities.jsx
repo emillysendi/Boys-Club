@@ -43,13 +43,13 @@ const Activities = () => {
                 </div>
             </div>
             <div className="mt-8 max-w-4xl grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-                <div className="bg-white rounded-lg overflow-hidden">
+                <div className="bg-white rounded-md overflow-hidden">
                     <img src={image1} alt="activity one" className="w-full h-auto object-cover" />
                 </div>
-                <div className="bg-white rounded-lg overflow-hidden">
+                <div className="bg-white rounded-md overflow-hidden">
                     <img src={image2} alt="activity two" className="w-full h-auto object-cover" />
                 </div>
-                <div className="bg-white rounded-lg overflow-hidden">
+                <div className="bg-white rounded-md overflow-hidden">
                     <img src={image3} alt="activity three" className="w-full h-auto object-cover" />
                 </div>
             </div>
